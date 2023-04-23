@@ -3,8 +3,8 @@ PyTorch implementation of "Associative Memory with Spatio-Temporal Enhancement f
 
 
 ## Dependencies
-* Python 3.6
-* PyTorch 1.1.0
+* Python 3.8.13
+* PyTorch 1.12.0
 * Numpy
 * Sklearn
 
