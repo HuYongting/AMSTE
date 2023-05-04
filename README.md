@@ -1,6 +1,4 @@
 # AMSTE
-PyTorch implementation of "Associative Memory with Spatio-Temporal Enhancement for Video Anomaly Detection"  by Yuanhong Zhong, Yongting Hu, Panliang Tang and Heng Wang.
-
 
 ## Dependencies
 * Python 3.8.13
